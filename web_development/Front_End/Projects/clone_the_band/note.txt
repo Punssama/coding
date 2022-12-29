@@ -1,0 +1,10 @@
+B1: Phân tích: 
+    +Nhận diện và gọi tên các thành phần của một trang web
+     --Những thành phần thường gặp trong UI của một web site: 1.Header(đầu trang)
+                                                              2.Navigation(Phần điều hướng)
+                                                              3.Breadcrumb(thanh đường dẫn)
+                                                              4.Sidebar(thanh sidebar - sub-navigation)
+                                                              5.Slider(Thanh trượt)
+                                                              6.Footer(Chân trang)
+                                                              7.Content(Nội dung)
+                                                              8.Banner
